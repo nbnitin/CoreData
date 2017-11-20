@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B46C3E61FC2A4270011C872 /* extraDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B46C3E51FC2A4270011C872 /* extraDetails.swift */; };
 		4B7FE55E1FBAFD7B00F62947 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7FE55D1FBAFD7B00F62947 /* AppDelegate.swift */; };
 		4B7FE5601FBAFD7B00F62947 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7FE55F1FBAFD7B00F62947 /* ViewController.swift */; };
 		4B7FE5631FBAFD7B00F62947 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B7FE5611FBAFD7B00F62947 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B46C3E51FC2A4270011C872 /* extraDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extraDetails.swift; sourceTree = "<group>"; };
 		4B7FE55A1FBAFD7B00F62947 /* CoreDataSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B7FE55D1FBAFD7B00F62947 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B7FE55F1FBAFD7B00F62947 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				4B7FE55F1FBAFD7B00F62947 /* ViewController.swift */,
 				4B7FE5611FBAFD7B00F62947 /* Main.storyboard */,
 				4BE4AFC41FBEF29A001CE976 /* DetailViewController.swift */,
+				4B46C3E51FC2A4270011C872 /* extraDetails.swift */,
 				4BE4AFC21FBECE66001CE976 /* TableViewCell.swift */,
 				4BF60FD51FBC3D780027E007 /* SaveViewController.swift */,
 				4B7FE5671FBAFD7B00F62947 /* Assets.xcassets */,
@@ -154,6 +157,7 @@
 				4BE4AFC31FBECE66001CE976 /* TableViewCell.swift in Sources */,
 				4B7FE5601FBAFD7B00F62947 /* ViewController.swift in Sources */,
 				4BF60FD61FBC3D780027E007 /* SaveViewController.swift in Sources */,
+				4B46C3E61FC2A4270011C872 /* extraDetails.swift in Sources */,
 				4BE4AFC51FBEF29A001CE976 /* DetailViewController.swift in Sources */,
 				4B7FE55E1FBAFD7B00F62947 /* AppDelegate.swift in Sources */,
 				4B7FE5761FBB117C00F62947 /* Model.xcdatamodeld in Sources */,

@@ -85,6 +85,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         let sender = sender as? TableViewCell
         let vc = segue.destination as! DetailViewController
         vc.data = sender?.data
+        vc.userExtraDetials = (sender?.detail?.detail)!
     }
     
    
